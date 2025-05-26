@@ -16,7 +16,7 @@ A real-time chat application that allows multiple users to communicate instantly
 - **Frontend**: HTML, CSS, JavaScript (or React, if applicable)
 - **Backend**: Node.js, Express.js
 - **Real-time Engine**: Socket.IO
-- **Deployment**: (Add if you deployed it e.g., Heroku, Vercel)
+
 
 ## 🚀 Getting Started
 
